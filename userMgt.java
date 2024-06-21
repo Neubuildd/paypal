@@ -1,9 +1,9 @@
 landmark
-simon
+mercy
 dominion
 Obi
 amaka
 ayo
-obi
-manager
+
+obimanager
 datti
