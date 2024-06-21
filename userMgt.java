@@ -6,3 +6,4 @@ amaka
 ayo
 obi
 manager
+datti
