@@ -1,3 +1,5 @@
+We manage java application; we support java applicatioin, .netapps, webapps
+ window apps
 This is great
 developing java apps
 
